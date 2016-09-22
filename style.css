@@ -74,6 +74,14 @@ a:hover {
   color: #ffffff;
 }
 
+a:visited{
+  color: #000000
+}
+
+a:active{
+  color: #ff0000
+}
+
 /*-- Nav Styles --*/
 .inline {
   display: inline;
